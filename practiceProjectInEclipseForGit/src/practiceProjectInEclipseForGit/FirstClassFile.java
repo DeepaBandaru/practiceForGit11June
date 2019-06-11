@@ -16,4 +16,10 @@ public class FirstClassFile {
 		// code by Ramya
 	}
 
+
+	public void productbymodule() {
+		// code by pavani
+	}
+
 }
+
