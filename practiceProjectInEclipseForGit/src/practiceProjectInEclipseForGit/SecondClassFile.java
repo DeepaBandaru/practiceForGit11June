@@ -2,5 +2,5 @@ package practiceProjectInEclipseForGit;
 
 public class SecondClassFile {
 
-	/// this is code for second class file for git practice
+/// deleted above line and this new updated code
 }
